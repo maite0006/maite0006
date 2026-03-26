@@ -24,7 +24,7 @@ I focus on building systems with clear business logic, applying clean architectu
 C#, Java, JavaScript, SQL, HTML5, CSS3  
 
 **Frameworks & Libraries**  
-.NET / ASP.NET, Spring Boot, React, Next.js, React Native  
+.NET / ASP.NET, Spring Boot, React, Node.js, React Native  
 
 **Databases**  
 SQL Server, PostgreSQL, MongoDB

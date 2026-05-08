@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maite Tuya
+# 👋 Hi, I'm Maite
 
 Advanced IT Analyst student and Web Development graduate, with experience in .NET, C#, and SQL. I specialize in backend development, with full-stack capabilities to build end-to-end solutions when needed.
 
